@@ -3,12 +3,13 @@ Fix for custom artwork messing after adding new mods <br>
 Works only for adding new mods considering that before that everything was correct
 
 ## How to use:
-1. put the script into Steam\userdata\<userid>\config\grid
-2. add only 1 new mod to your sourcemods folder $${\color{red}\*}$$
-3. launch the script
-4. when prompted, select the latest mod you added
-5. enjoy your corrected artwork
-6. now you can repeat 2-5 as many times as you like
+1. [download the script](https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2FFieryFenX%2Fsourcemods-artworkfix%2Fblob%2Fmain%2Fartworkfix.bat)
+2. put the script into Steam\userdata\<userid>\config\grid
+3. add only 1 new mod to your sourcemods folder $${\color{red}\*}$$
+4. launch the script
+5. when prompted, select the latest mod you added
+6. enjoy your corrected artwork
+7. now you can repeat 3-6 as many times as you like
 
 ***
 
