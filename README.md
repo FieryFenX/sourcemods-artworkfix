@@ -6,10 +6,11 @@ Works only for adding new mods considering that before that everything was corre
 1. [download the script](https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2FFieryFenX%2Fsourcemods-artworkfix%2Fblob%2Fmain%2Fartworkfix.bat)
 2. put the script into Steam\userdata\<userid>\config\grid
 3. add only 1 new mod to your sourcemods folder $${\color{red}\*}$$
-4. launch the script
-5. when prompted, select the latest mod you added
-6. enjoy your corrected artwork
-7. now you can repeat 3-6 as many times as you like
+4. make sure the mod was added to Steam <br> (and that the artwork is indeed broken)
+5. launch the script
+6. when prompted, select the latest mod you added
+7. enjoy your corrected artwork
+8. now you can repeat 3-7 as many times as you like
 
 ***
 
