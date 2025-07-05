@@ -1,6 +1,8 @@
 # sourcemods-artworkfix
 Fix for custom artwork messing up after adding new mods <br>
 Works only for adding new mods considering that before that everything was correct
+Does not work with half-life 1 mods. Also, there are still bugs with number of mods being more than 9-10
+Unfortunately, I have no capacity to fix the issues currently
 
 ## How to use:
 1. [download the script](https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2FFieryFenX%2Fsourcemods-artworkfix%2Fblob%2Fmain%2Fartworkfix.bat)
