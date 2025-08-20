@@ -1,7 +1,7 @@
 # sourcemods-artworkfix
 Fix for custom artwork messing up after adding new mods <br>
 Works only for adding new mods considering that before that everything was correct <br>
-Does not work with half-life 1 mods. Also, there are still bugs with number of mods being more than 9-10 <br>
+<b>Does not work with goldsrc mods.</b> Also, there are still bugs with number of mods being more than 9-10 <br>
 Unfortunately, I have no capacity to fix the issues currently
 
 ## How to use:
